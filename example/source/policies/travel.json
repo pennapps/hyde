@@ -1,4 +1,5 @@
 {
 	title: "PennApps Travel Policy",
-	slug: "travel"
+	slug: "travel",
+	template: "policy_template.jade"
 }
