@@ -6,8 +6,7 @@ Supports the following languages/pre-processors:
 - Jade
 - Less
 - JSON Variables
-- 
+
 
 Backlog:
 - Github webhook
-- 
