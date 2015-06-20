@@ -5,7 +5,7 @@
   "main": "hyde.js",
   "dependencies": {
     "jade": "~1.11.0",
-    "multimarkdown": "*",
+    "markdown": "*",
     "async": "*",
     "underscore": "*"
   },
