@@ -1,0 +1,26 @@
+{
+  "name": "Hyde",
+  "version": "0.0.0",
+  "description": "Static website compiler written in Node.js",
+  "main": "hyde.js",
+  "dependencies": {
+    "jade": "~1.11.0",
+    "multimarkdown": "*",
+    "async": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moward/Hyde.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moward/Hyde/issues"
+  },
+  "homepage": "https://github.com/moward/Hyde"
+}
