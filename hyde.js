@@ -275,7 +275,6 @@ Directory.prototype.compile = function () {
               }
 
               var targetFilepath;
-
               if (base === 'index') {
                 targetFilepath = path.join(thisObj.getTargetPath(), 'index.html');
               } else {
