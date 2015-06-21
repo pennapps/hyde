@@ -1,7 +1,7 @@
 var path = require('path');
 var jade = require('jade');
 var fs = require('fs');
-var md = require("node-markdown").Markdown;
+var md = require('marked');
 var _ = require('underscore');
 
 if (process.argv.length != 4) {
@@ -81,7 +81,7 @@ Directory.prototype.compile = function () {
             var pageObj = _.defaults(require(path.join(thisObj.getSourcePath(), filename)), defaultConfig['vars']);
             var pageOutput;
             //compile corresponding markdown file
-            fs.readFile(path.join(thisObj.getSourcePath(), thisObj.dirPath, base + '.md'), function (err, data) {
+            fs.readFile(path.join(thisObj.getSourcePath(), base + '.md'), 'utf8', function (err, data) {
               if (err) throw err;
 
               pageObj['content'] = md(data);
@@ -89,12 +89,12 @@ Directory.prototype.compile = function () {
               //generate html from jade
               if (pageObj.template) {
                 var fullTemplatePath = path.join(thisObj.getSourcePath(), pageObj.template);
-                if (!jadeFunction[fullTemplatePath]) {
+                if (!jadeFunctions[fullTemplatePath]) {
                   //need to compile jade file
-                  jadeFunction[fullTemplatePath] = jade.compileFile(fullTemplatePath, jadeOptions);
+                  jadeFunctions[fullTemplatePath] = jade.compileFile(fullTemplatePath, jadeOptions);
                 }
 
-                pageOutput = (jadeFunction[fullTemplatePath])(pageObj);
+                pageOutput = (jadeFunctions[fullTemplatePath])(pageObj);
               } else {
                 //use default function
                 pageOutput = defaultJadeFunction(pageObj);
@@ -116,7 +116,7 @@ Directory.prototype.compile = function () {
           } else {
             //otherwise, copy
             console.info('Copying ' + sourceFilename);
-            copyFile(sourceFilename, path.join(thisObj.getTargetPath(), thisObj.dirPath, filename));
+            copyFile(sourceFilename, path.join(thisObj.getTargetPath(), filename));
           }
         } else if (stats.isDirectory()) {
           //recurse
