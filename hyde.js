@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var path = require('path');
 var jade = require('jade');
 var fs = require('fs');
@@ -6,8 +8,8 @@ var less = require('less');
 var _ = require('underscore');
 
 if (process.argv.length != 4) {
-  throw new Exception('Expected two arguments.\n'
-    + 'Usage: node hyde <source directoy> <target directory>');
+  throw new Error('Expected two arguments.\n'
+    + 'Usage: hyde <source directoy> <target directory>');
 }
 
 var sourceDir = path.join(process.cwd(), process.argv[2]);
@@ -21,7 +23,6 @@ var defaultConfig = {
 var config = _.defaults(require(path.join(sourceDir, '.hyde.json')), defaultConfig);
 
 //Jade compiler functions
-
 var jadeFunctions = {};
 
 var jadeOptions = {};
@@ -103,13 +104,19 @@ Directory.prototype.compile = function () {
                 //use default function
                 pageOutput = defaultJadeFunction(pageObj);
               }
-              //create containing directory
-              guaranteeDirectory(path.join(thisObj.getTargetPath(), base));
 
-              if (err) throw err;
+              var targetFilepath;
+
+              if (base === 'index') {
+                targetFilepath = path.join(thisObj.getTargetPath(), 'index.html');
+              } else {
+                //create containing directory
+                guaranteeDirectory(path.join(thisObj.getTargetPath(), base));
+                targetFilepath = path.join(thisObj.getTargetPath(), base, 'index.html');
+              }
 
               //write output
-              fs.writeFile(path.join(thisObj.getTargetPath(), base, 'index.html'), pageOutput, function (err) {
+              fs.writeFile(targetFilepath, pageOutput, function (err) {
                 if (err) throw err;
               });
 

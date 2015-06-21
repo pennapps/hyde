@@ -2,10 +2,9 @@
   "name": "Hyde",
   "version": "0.0.0",
   "description": "Static website compiler written in Node.js",
-  "main": "hyde.js",
   "dependencies": {
     "jade": "~1.11.0",
-    "node-markdown": "*",
+    "marked": "*",
     "async": "*",
     "underscore": "*",
     "less": "*"
@@ -23,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/moward/Hyde/issues"
   },
-  "homepage": "https://github.com/moward/Hyde"
+  "homepage": "https://github.com/moward/Hyde",
+  "preferGlobal": true,
+  "bin": {
+    "hyde": "hyde.js"
+  }
 }
