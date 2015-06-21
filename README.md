@@ -21,7 +21,7 @@ To use custom directories
 $ node hyde.js (desired source name) (desired target name)
 ```
 
-
+# Features
 Supports the following languages/pre-processors:
 - Markdown
 - Jade
