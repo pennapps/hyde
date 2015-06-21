@@ -6,11 +6,35 @@ var fs = require('fs');
 var md = require('marked');
 var less = require('less');
 var _ = require('underscore');
+var fs = require('fs');
+var mkdirp = require('mkdirp');
 
-if (process.argv.length != 4) {
+if (process.argv.length == 3){
+var init = process.argv[2];
+mkdirp('Hyde_Project', function(err) { 
+    if(err) {
+        return console.log(err);
+    }
+
+    console.log("The path was created.");
+});
+if (init=='init'){
+fs.writeFile('Hyde_Project/.hyde.json','{"vars": {}}',function (err) {
+  if(err) {
+        return console.log(err);
+    }
+
+    console.log("The file was saved.");
+}); 
+}
+}
+else if (process.argv.length != 4) {
   throw new Error('Expected two arguments.\n'
     + 'Usage: hyde <source directoy> <target directory>');
 }
+else{
+
+
 
 var sourceDir = path.join(process.cwd(), process.argv[2]);
 var targetDir = path.join(process.cwd(), process.argv[3]);
@@ -150,3 +174,4 @@ Directory.prototype.compile = function () {
 };
 
 (new Directory('.')).compile();
+}

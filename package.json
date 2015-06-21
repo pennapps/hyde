@@ -7,7 +7,8 @@
     "marked": "*",
     "async": "*",
     "underscore": "*",
-    "less": "*"
+    "less": "*",
+    "mkdirp": "*"
   },
   "devDependencies": {},
   "scripts": {
