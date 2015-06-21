@@ -1,5 +1,5 @@
 {
-	title: "PennApps Privacy Policy",
-	slug: "privacypolicy", 
-	template: "policy_template.jade"
+	"title": "PennApps Privacy Policy",
+	"slug": "privacypolicy", 
+	"template": "policy_template.jade"
 }
