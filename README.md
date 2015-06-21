@@ -13,8 +13,14 @@ Will create a new directory Hyde_Project, where all files can be added.
 ### Compile Project
 To compile
 ```
-$ node hyde.js Hyde_Project (desired directory name)
+$ node hyde.js compile (desired directory name)
 ```
+### Custom Compile
+To use custom directories
+```
+$ node hyde.js (desired source name) (desired target name)
+```
+
 
 Supports the following languages/pre-processors:
 - Markdown
