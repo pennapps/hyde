@@ -1,6 +1,8 @@
 # Hyde
 Static website compiler written in Node.js for Battle of The Hacks hosted by Andreessen Horowitz.
 
+![Hyde logo](https://raw.githubusercontent.com/moward/Hyde/master/logo.png)
+
 # How to run
 
 ### Create Empty Project
