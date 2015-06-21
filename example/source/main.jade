@@ -2,5 +2,10 @@ doctype html
 html(lang="en")
   head
     title= pageTitle
+    include ./main.less
   body
-    block content
+    .header
+      h1#logo PennApps XII
+      h2#title Mentorship
+    .body-content
+      block content
