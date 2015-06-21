@@ -8,19 +8,19 @@ Static website compiler written in Node.js for Battle of The Hacks hosted by And
 ### Create Empty Project
 Run Hyde init
 ```
-$ node hyde.js init
+$ node hyde init
 ```
 Will create a new directory Hyde_Project, where all files can be added.
 
 ### Compile Project
 To compile
 ```
-$ node hyde.js compile (desired directory name)
+$ node hyde compile (desired directory name)
 ```
 ### Custom Compile
 To use custom directories
 ```
-$ node hyde.js (desired source name) (desired target name)
+$ node hyde (desired source name) (desired target name)
 ```
 
 # Features
