@@ -2,6 +2,7 @@ var path = require('path');
 var jade = require('jade');
 var fs = require('fs');
 var md = require('marked');
+var less = require('less');
 var _ = require('underscore');
 
 if (process.argv.length != 4) {
@@ -38,6 +39,9 @@ var guaranteeDirectory = function (dir) {
     fs.mkdirSync(dir);
   }
 }
+
+//Less options
+var lessOptions = _.defaults(config.lessOptions);
 
 //Build pages
 // dirPath: String The directory relative to the sourceDir
@@ -113,7 +117,18 @@ Directory.prototype.compile = function () {
           } else if (ext === 'md' || ext == 'jade') {
             //do nothing
             console.info('Skipping ' + sourceFilename);
-          } else {
+          } else if (ext === 'less') {
+            console.info('Compiling ' + sourceFilename);
+            fs.readFile(path.join(sourceFilename), 'utf8', function (err, data) {
+              if (err) throw err;
+              //replace .less file in source with .css in target
+              less.render(data, lessOptions).then(function (output) {
+                fs.writeFile(path.join(thisObj.getTargetPath(), base + '.css'), output.css, function (err) {
+                  if (err) throw err;
+                });
+              })
+            });
+          } else if (base !== '.hyde') {
             //otherwise, copy
             console.info('Copying ' + sourceFilename);
             copyFile(sourceFilename, path.join(thisObj.getTargetPath(), filename));

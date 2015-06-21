@@ -7,7 +7,8 @@
     "jade": "~1.11.0",
     "node-markdown": "*",
     "async": "*",
-    "underscore": "*"
+    "underscore": "*",
+    "less": "*"
   },
   "devDependencies": {},
   "scripts": {
