@@ -1,5 +1,5 @@
 {
-	title: "PennApps Code of Conduct",
-	slug: "conduct",
-	template: "policy_template.jade"
+	"title": "PennApps Code of Conduct",
+	"slug": "conduct",
+	"template": "policy_template.jade"
 }
