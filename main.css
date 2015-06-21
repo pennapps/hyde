@@ -1,0 +1,152 @@
+@import url("http://hello.myfonts.net/count/2ddd1b.css");
+/**
+ * @license
+ * MyFonts Webfont Build ID 3005723, 2015-04-08T15:48:54-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: HalisR-Black by Ahmet Altun
+ * URL: http://www.myfonts.com/fonts/ahmet-altun/halis-rounded/black/
+ *
+ * Webfont: HalisR-Light by Ahmet Altun
+ * URL: http://www.myfonts.com/fonts/ahmet-altun/halis-rounded/light/
+ *
+ * Webfont: HalisR-Regular by Ahmet Altun
+ * URL: http://www.myfonts.com/fonts/ahmet-altun/halis-rounded/regular/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3005723
+ * Licensed pageviews: 500,000
+ * Webfonts copyright: Copyright (c) 2013 by Ahmet Altun. All rights reserved.
+ *
+ * © 2015 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@font-face {
+  font-family: 'HalisR-Black';
+  src: url('webfonts/2DDD1B_0_0.eot');
+  src: url('webfonts/2DDD1B_0_0.eot?#iefix') format('embedded-opentype'), url('webfonts/2DDD1B_0_0.woff2') format('woff2'), url('webfonts/2DDD1B_0_0.woff') format('woff'), url('webfonts/2DDD1B_0_0.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HalisR-Light';
+  src: url('webfonts/2DDD1B_1_0.eot');
+  src: url('webfonts/2DDD1B_1_0.eot?#iefix') format('embedded-opentype'), url('webfonts/2DDD1B_1_0.woff2') format('woff2'), url('webfonts/2DDD1B_1_0.woff') format('woff'), url('webfonts/2DDD1B_1_0.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'HalisR-Regular';
+  src: url('webfonts/2DDD1B_2_0.eot');
+  src: url('webfonts/2DDD1B_2_0.eot?#iefix') format('embedded-opentype'), url('webfonts/2DDD1B_2_0.woff2') format('woff2'), url('webfonts/2DDD1B_2_0.woff') format('woff'), url('webfonts/2DDD1B_2_0.ttf') format('truetype');
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  width: 100%;
+  height: 75px;
+  background-color: #062946;
+  color: white;
+}
+.header a h1 {
+  font-family: "HalisR-Black";
+  text-transform: uppercase;
+  float: left;
+  margin-top: 15px;
+  margin-left: 20px;
+  color: white;
+}
+.header a:hover h1 {
+  color: #efefef;
+}
+.header #dash {
+  width: 40px;
+  height: 1px;
+  background-color: #efefef;
+  float: left;
+  margin: 35px 20px;
+}
+.header h2 {
+  font-family: "HalisR-Light";
+  text-transform: uppercase;
+  float: left;
+  margin-top: 20px;
+}
+.body-content {
+  width: 800px;
+  margin: 80px auto 100px auto;
+}
+.body-content p,
+.body-content ul {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 1.25em;
+  line-height: 2em;
+  margin-bottom: 20px;
+}
+.body-content p a {
+  color: #062946;
+  text-decoration: underline;
+}
+.body-content li a {
+  color: #062946;
+  text-decoration: underline;
+}
+.body-content h1,
+.body-content h6 {
+  color: #062946;
+  font-family: "HalisR-Black";
+  text-transform: uppercase;
+}
+.body-content h2,
+.body-content h4 {
+  color: #062946;
+  font-family: "HalisR-Light";
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+.body-content h3,
+.body-content h5 {
+  color: #e64659;
+  font-family: "HalisR-Black";
+  text-transform: uppercase;
+}
+.footer-section {
+  font: "Open Sans";
+  font-weight: 300;
+  padding: 75px 50px;
+  background-color: #062946;
+}
+.footer-section img {
+  margin-bottom: 10px;
+}
+.footer-section img:hover {
+  opacity: 0.9;
+}
+.footer-section .footer-col {
+  padding: 0px 0px 0px 20px;
+  margin: 20px 0px 0px 20px;
+  border-left: 2px solid white;
+}
+.footer-section a {
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+}
+.footer-section a:hover {
+  text-decoration: underline;
+  color: white;
+}
+.footer-section p {
+  color: white;
+  font-size: 1.15em;
+  margin: 0px;
+  line-height: 1.5em;
+}
+.footer-section .penn-logo {
+  width: 150px;
+  margin: 20px 0px 0px 60px;
+}
