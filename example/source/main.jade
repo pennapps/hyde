@@ -8,7 +8,34 @@ html(lang="en")
 
   body
     .header
-      h1#logo PennApps XII
+      a(href="http://pennapps.com")
+        h1#logo PennApps XII
       div#dash
       h2#title Policies
     .body-content!=content
+    // Footer
+    .footer-section
+      .row
+        .col-lg-3.col-sm-6
+          .footer-col
+            a(href='#home')
+              img(src='http://2015f.pennapps.com/img/PennApps-white.png', width='50px')
+            p &copy 2015 PennApps
+            p
+              a(href='mailto:contact@pennapps.com') contact@pennapps.com
+              | .
+        .col-lg-3.col-sm-6
+          .footer-col
+
+        .col-lg-3.col-sm-6
+          .footer-col
+            p
+              a(href='https://www.facebook.com/pennapps') Facebook
+            p
+              a(href='https://twitter.com/pennapps') Twitter
+        .col-lg-3.col-sm-6
+          .footer-col
+            p Organized with support from:
+          a(href='http://www.seas.upenn.edu')
+            img.penn-logo(src='http://2015f.pennapps.com/img/penn-logo.png')
+    // footer-section
