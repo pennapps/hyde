@@ -5,9 +5,8 @@ var exec = require('child_process').exec;
 
 var cwd = process.cwd();
 
-gith({
-  repo: 'moward/Hyde'
-}).on( 'all', function( payload ) {
+gith().on( 'all', function( payload ) {
+  console.log('Event:', payload);
   if( payload.branch === 'master' )
   {
     exec('cd "' + cwd + '"; node hyde example/source ~/gh-pages', function(error, stdout, stderr) {
