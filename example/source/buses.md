@@ -13,4 +13,5 @@ Buses will be running within Philadelphia throughout the weekend according to th
  - 9am - bus from Penn to Wells Fargo Center
  - 10am - bus from Penn to Wells Fargo Center
  - 1pm - 2pm - buses running every hour, round trip
- - 4:30pm (end of closing ceremonies) – 7:30pm - busses running from Wells Fargo Center to Penn and from Wells Fargo Center to Philadelphia International Airport
+ - 4:30pm (end of closing ceremonies) – 6pm - busses running from Wells Fargo Center to Penn and from Wells Fargo Center to Philadelphia International Airport
+ 
