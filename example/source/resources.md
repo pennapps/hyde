@@ -33,6 +33,9 @@ neuromore Studio will provide OSC messages as development interface that develop
 ## eBay
 https://go.developer.ebay.com/
 
+## Facebook
+https://developers.facebook.com/
+
 ## Pebble
 http://developer.getpebble.com
 
