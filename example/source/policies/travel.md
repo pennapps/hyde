@@ -2,7 +2,7 @@ Traveling to PennApps?
 =======================
 If you've been accepted to PennApps XII (Fall 2015) from another school, please refer to the guidelines below when making travel arrangements:
 
-## Many schools will have busses
+## Many schools will have buses
 
 We will provide buses to and from many schools via Sharethebus, a bus sharing service. If we are sending a bus to your area, your "travel method" will be listed as "chartered bus". A local campus rep will reach out to you regarding the bus departure time and sign up location.
 
