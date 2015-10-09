@@ -39,17 +39,6 @@ The primary motivators for why sponsoring companies attend and support PennApps 
 
 You have the opportunity to decline providing any information to sponsors when you RSVP. Specifically, we never directly share your phone number or any demographic information.
 
-### Major League Hacking
-Since its inception, we’ve been working with Major League Hacking (MLH) to unify and contribute to the hackathon community. As part of this partnership, we share the following information with MLH which they treat in accordance with the [MLH Privacy Policy](https://mlh.io/privacy):
-
-1. Name, email addresses, school, major, and graduation year for identification purposes. MLH will send you an opt-in email to ask if you want to be on their marketing list.
-
-2. ChallengePost submission, and any prizes won - This information is used for MLH’s scoring and ranking system.
-
-3. Name and school - This is provided to MLH in advance so they can cross-reference our list of hackers with their list of suspended and banned persons, as per [MLH’s Disciplinary Action Policy](http://static.mlh.io/docs/disciplinary-action-policy.pdf).
-
-If you would like to opt out of providing your contact/identifying information and scoring information (#1 and #2) to MLH, please fill out [this form](https://www.surveymonkey.com/r/PSCKV9B) at least 7 days prior to the start of PennApps.
-
 ### The University of Pennsylvania
 As part of our close partnership with the University of Pennsylvania, we work directly with Penn Engineering to ensure our hackathon's success. To help them to do their job, we provide Penn Engineering staff with personal information, such as dietary restrictions and emergency contact information, on request. In addition, travel reimbursement information is handled by the University’s business offices and is always kept confidential.
 
