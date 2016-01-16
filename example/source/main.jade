@@ -13,7 +13,25 @@ html(lang="en")
       a(href="http://pennapps.com")
         h1#logo PennApps&nbsp;
           span.num XIII
-    .body-content!=content
+    .container
+      - // output document structure as nested lists with links
+      mixin structureToList(node, isTop)
+        if !isTop
+          a(href='#' + node[1])=node[0]
+        if node.length > 2
+          ul
+            - for (var i = 2; i < node.length; i++)
+              li
+                +structureToList(node[i], false)
+
+      - var structure = getStructure(content);
+      if structure
+        .body-content.col-md-8!=content
+        .toc.col-md-4.hidden-sm.hidden-xs
+          +structureToList(structure, true)
+      else
+        .body-content.col-md-8.col-md-offset-2!=content
+      
     // Footer
     .footer-section
       .row

@@ -9,7 +9,8 @@
     "underscore": "*",
     "less": "*",
     "mkdirp": "*",
-    "gith": "*"
+    "gith": "*",
+    "htmlparser2": "^3.9.0"
   },
   "devDependencies": {},
   "scripts": {

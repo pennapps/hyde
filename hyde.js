@@ -9,37 +9,35 @@ var _ = require('underscore');
 var fs = require('fs');
 var mkdirp = require('mkdirp');
 
-if (process.argv.length == 3){
-var init = process.argv[2];
-mkdirp('Hyde_Project', function(err) { 
+if (process.argv.length == 3) {
+  var init = process.argv[2];
+  mkdirp('Hyde_Project', function(err) { 
     if(err) {
-        return console.log(err);
+      return console.log(err);
     }
 
     console.log("The path was created.");
-});
-if (init=='init'){
-fs.writeFile('Hyde_Project/.hyde.json','{"vars": {}}',function (err) {
-  if(err) {
+  });
+  if (init === 'init') {
+    fs.writeFile('Hyde_Project/.hyde.json','{"vars": {}}',function (err) {
+      if(err) {
         return console.log(err);
-    }
+      }
 
-    console.log("The file was saved.");
-}); 
-fs.writeFile('Hyde_Project/main.jade','',function (err) {
-  if(err) {
+      console.log("The file was saved.");
+    }); 
+    fs.writeFile('Hyde_Project/main.jade', '', function (err) {
+      if (err) {
         return console.log(err);
-    }
+      }
 
-    console.log("The file was saved.");
-}); 
-}
-}
-else if (process.argv.length != 4) {
+      console.log("The file was saved.");
+    }); 
+  }
+} else if (process.argv.length != 4) {
   throw new Error('Expected two arguments.\n'
     + 'Usage: hyde <source directoy> <target directory>');
-}
-else {
+} else {
   if (process.argv[2] === 'compile'){
     var sourceDir = path.join(process.cwd(),'Hyde_Project');
     var targetDir = path.join(process.cwd(), process.argv[3]);
@@ -56,6 +54,8 @@ else {
     'vars': {}
   };
   var config = _.defaults(require(path.join(sourceDir, '.hyde.json')), defaultConfig);
+
+  defaultConfig['vars']['getStructure'] = require('./getStructure');
 
   //Jade compiler functions
   var jadeFunctions = {};
