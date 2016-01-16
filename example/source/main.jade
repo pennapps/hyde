@@ -25,7 +25,8 @@ html(lang="en")
                 +structureToList(node[i], false)
 
       - var structure = getStructure(content);
-      if structure
+      - // only display if structure exists and has subheadings
+      if structure && structure.length > 2
         .body-content.col-md-8!=content
         .toc.col-md-4.hidden-sm.hidden-xs
           +structureToList(structure, true)
