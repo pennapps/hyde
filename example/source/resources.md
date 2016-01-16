@@ -1,5 +1,8 @@
 # Resources List
 
+## General Resources
+You can find our curated resources to help you start building at [mentoring.pennapps.com](http://mentoring.pennapps.com).
+
 ## API Resources
 
 ### Capital One
