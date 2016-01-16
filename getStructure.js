@@ -48,9 +48,11 @@ module.exports = function getStructure(html) {
               heirarchyStack.push(current);
 
               parent = current;
-            } else if (level === prevLevel - 1) {
-              // jump up
-              heirarchyStack.pop();
+            } else if (level < prevLevel) {
+              // jump up some number of levels
+              for (var i = 0; i < prevLevel - level; i++) {
+                heirarchyStack.pop();
+              }
               parent = heirarchyStack[heirarchyStack.length - 1];
             } else {
               throw new Error('Illegal structure. Jumping from level ' + prevLevel + ' to ' + level);
