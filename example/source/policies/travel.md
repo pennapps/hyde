@@ -50,7 +50,7 @@ When submitting your driving receipts, You *must* add a screenshot clearly showi
 - If you qualify for Venmo Reimbursement, we will send the reimbursement to your Venmo account instantly at the travel desk. If you do not qualify, you will need to apply for a Check reimbursement.
 
 ### Venmo Reimbursement
-- To qualify for instant Venmo reimbursement, you must have a Venmo account (free to sign up with a U.S. bank account) **AND** your total claimed reimbursement (the lesser of your travel cap and your travel cost) must be less than or equal to $100.
+- To qualify for instant Venmo reimbursement, you must have a Venmo account (free to sign up with a U.S. bank account) **AND** your total claimed reimbursement (the lesser of your travel cap and your travel cost) must be less than or equal to $250.
 - You will be required to submit a receipt of your travel expenses. Please make sure your receipts clearly show the dollar amount spent. Cropped or edited reciepts will be rejected.
 - If your tickets can only be purchased on the day you depart from PennApps (SEPTA, NJTransit, Cab, Uber etc) then you must submit for check reimbursement after the event.
 

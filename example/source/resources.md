@@ -26,12 +26,33 @@ You can find our curated resources to help you start building at [mentoring.penn
 ### Two Sigma
 [Beaker Notebook](http://beakernotebook.com) is a new open source tool for collaborative data science. Beaker has an innovative UI and unique architecture to make it easier for novices to get started, and enable experts to work faster. Like IPython, Beaker uses a notebook-based UI metaphor, but Beaker was designed to be polyglot from the ground up. That is, a single notebook may contain cells from multiple different languages that communicate with one another through a unique feature called autotranslation.
 
-### Twilio
-[twilio.com](http://twilio.com) - Get a $30 Credit for PennApps by entering the promotional code `PennAppsPart`.
-
 ## Route-Specific Resources
 
 ### Social & Civic Hacking - City of Philadelphia Datasets
+
+<ul>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/philadelphia-food-access">Walkable Access to Healthy Food 2012-2014</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/solar-installation-projects">Solar Technology Projects</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/water-inlets">Water Inlets</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/commercial-corridors">Commercial Corridors</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/storefront-improvement-grants">Storefront Improvement Program Grants Disbursed</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/bullet-voting-in-philadelphia-2015">Bullet Voting 2015 Data</a>
+    </li>
+    <li>
+        <a href="https://www.opendataphilly.org/dataset/city-facilities-master-facilities-database">City Facilities</a>
+    </li>
+</ul>
 
 <table border="1" cellpadding="0" cellspacing="0">
   <tbody>
