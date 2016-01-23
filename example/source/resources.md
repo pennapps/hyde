@@ -5,7 +5,7 @@ You can find our curated resources to help you start building at [mentoring.penn
 
 ## API Resources
 
-### Block Rock
+### BlackRock
 [BlackRock Hackathon API](http://rockthecode.io/api/)
 
 ### Capital One
