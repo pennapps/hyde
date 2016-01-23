@@ -5,8 +5,14 @@ You can find our curated resources to help you start building at [mentoring.penn
 
 ## API Resources
 
+### Block Rock
+[BlackRock Hackathon API](http://rockthecode.io/api/)
+
 ### Capital One
 [Nessie](http://api.reimaginebanking.com/)
+
+### Johnson & Johnson
+[OneTouch Reveal API](http://q-r.to/hackotrapi)
 
 ### MongoDB
 [mongodb.org](https://www.mongodb.org)
@@ -16,6 +22,9 @@ You can find our curated resources to help you start building at [mentoring.penn
 
 ### Plaid
 [plaid.com/docs](http://plaid.com/docs)
+
+### Postmates
+[postmates.com/developer](http://postmates.com/developer)
 
 ### SoundHound
 [houndify.com](http://houndify.com)
