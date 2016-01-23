@@ -4,7 +4,7 @@
 You can find our curated resources to help you start building at [mentoring.pennapps.com](http://mentoring.pennapps.com).
 
 ## Opening Ceremony Slide Deck
-View the [slides](pennapps_xiii_opening_vfinal.pdf) from the opening ceremony
+View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony
 
 ## API Resources
 
