@@ -1,4 +1,4 @@
-#Our Policies
+# Our Policies
 
  - [Privacy Policy](/policies/privacy)
  - [Travel Policy](/policies/travel)
