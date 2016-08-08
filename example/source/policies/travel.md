@@ -1,6 +1,6 @@
 Traveling to PennApps?
 =======================
-If you've been accepted to PennApps XIII (Spring 2016) from another school, please refer to the guidelines below when making travel arrangements:
+If you've been accepted to PennApps XIV (Fall 2016) from another school, please refer to the guidelines below when making travel arrangements:
 
 ## Many schools will have buses
 
@@ -17,7 +17,7 @@ If you research transportation from your location and find the travel cap to be 
 
 
 ## Dates and Times
-You should anticipate arriving by **4 PM Friday, January 22nd** and leaving after **5 PM on Sunday, January 24th**. 
+You should anticipate arriving by **4 PM Friday, September 9th** and leaving after **5 PM on Sunday, September 11th**. 
 
 ### Staying Sunday Night
 If you cannot book travel for Sunday night and want to leave on Monday morning, please try and arrange to stay with a Penn friend on campus. We can try and help you arrange somewhere to stay, but cannot guarantee availability.
