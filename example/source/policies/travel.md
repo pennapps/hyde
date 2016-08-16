@@ -4,9 +4,7 @@ If you've been accepted to PennApps XIV (Fall 2016) from another school, please 
 
 ## Many schools will have buses
 
-We will provide buses to and from many schools via Sharethebus, a bus sharing service. If we are sending a bus to your area, your "travel method" will be listed as "chartered bus". A local campus rep will reach out to you regarding the bus departure time and sign up location.
-
-Seats are reserved by following the link from your campus rep email and following the onscreen instructions. The first 40 students who reserve seats do not have to pay for their spot. For the remaining students there will be a travel cap listed along with this method. This is the exact amount you must pay before you can reserve your spot on the bus. If you delay too long, your campus rep may assign your seat to someone on the waitlist. Reserving this seat will provide you with a receipt which you can use to apply for reimbursement as normal.
+We will provide buses to and from select schools via Sharethebus, a bus sharing service. If we are sending a bus to your area, your “travel method” will be listed as “chartered bus”. A student bus representative will reach out to you regarding bus departure and arrival times as well as the sign up location. Seats are reserved on a first come, first serve basis until the bus fills to capacity by following the sign-up form from your bus rep's email. If you delay too long, your bus rep may assign your seat to someone on the waitlist. Reserving this seat will be at no cost and you won’t need to apply for reimbursement.
 
 ## Book Your Travel ASAP
 If you are traveling via flight, Amtrak, or public bus, you will have 5 days to RSVP and upload your receipts and forms from the day you receive your acceptance email. **After this period, we cannot guarantee admission and will not increase your travel cap.**
@@ -17,7 +15,7 @@ If you research transportation from your location and find the travel cap to be 
 
 
 ## Dates and Times
-You should anticipate arriving by **4 PM Friday, September 9th** and leaving after **5 PM on Sunday, September 11th**. 
+You should anticipate arriving by **4 PM Friday, September 9th** and leaving after **5 PM on Sunday, September 11th**.
 
 ### Staying Sunday Night
 If you cannot book travel for Sunday night and want to leave on Monday morning, please try and arrange to stay with a Penn friend on campus. We can try and help you arrange somewhere to stay, but cannot guarantee availability.
@@ -61,7 +59,7 @@ When submitting your driving receipts, You *must* add a screenshot clearly showi
 - Please make sure your receipts clearly show the dollar amount spent. Cropped or edited reciepts will be rejected.
 - If your tickets can only be purchased on the day of the event (SEPTA, NJTransit, Cab, Uber etc) then you will be permitted to submit your forms after the event.
 - If you know other people who have been accepted to PennApps coming from the same location, it would be advantageous to have one person book the tickets for everyone. This will make the travel reimbursement process easier. If possible, have this person be an US citizen.
-- Please ensure all your forms are fully completed and signed. This saves us unbelievable amounts of time. 
+- Please ensure all your forms are fully completed and signed. This saves us unbelievable amounts of time.
 - US citizens applying for reimbursement are required to submit a W9 form, with their Social Security Number, for the University's tax records. Forms without SSNs will be rejected.
 
 ## Other Details
