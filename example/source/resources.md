@@ -15,9 +15,9 @@ View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony -
 [Nessie](http://api.reimaginebanking.com/)
 
 ### Google Polymer
-[Platform Overview](www.polymer-project.org)
-[Elements Catalog](https://elements.polymer-project.org)
-[Web Component Catalogs](https://customelements.io)
+- [Platform Overview](www.polymer-project.org)
+- [Elements Catalog](https://elements.polymer-project.org)
+- [Web Component Catalogs](https://customelements.io)
 
 ### Linode
 Linode's API is not required to use our services, though an API is provided where you can control nearly every facet of the Linode Manager programmatically.
@@ -28,8 +28,8 @@ Information at [linode.com/api](http://linode.com/api).
 [Lyft API](https://www.lyft.com/developers)
 
 ### MongoDB
-[MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
-[mongodb.org](https://www.mongodb.org)
+- [MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
+- [mongodb.org](https://www.mongodb.org)
 
 ### Nexmo
 - SMS API
