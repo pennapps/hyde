@@ -3,22 +3,42 @@
 ## General Resources
 You can find our curated resources to help you start building at [mentoring.pennapps.com](http://mentoring.pennapps.com).
 
-## Opening Ceremony Slide Deck
-View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony
+<!-- ## Opening Ceremony Slide Deck
+View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony -->
 
 ## API Resources
 
 ### BlackRock
-[BlackRock Hackathon API](http://rockthecode.io/api/)
+[BlackRock Aladdin API](http://test3.blackrock.com/hack)
 
 ### Capital One
 [Nessie](http://api.reimaginebanking.com/)
 
-### Johnson & Johnson
-[OneTouch Reveal API](http://q-r.to/hackotrapi)
+### Google Polymer
+[Platform Overview](www.polymer-project.org)
+[Elements Catalog](https://elements.polymer-project.org)
+[Web Component Catalogs](https://customelements.io)
+
+### Linode
+Linode's API is not required to use our services, though an API is provided where you can control nearly every facet of the Linode Manager programmatically.
+
+Information at [linode.com/api](http://linode.com/api).
+
+### Lyft
+[Lyft API](https://www.lyft.com/developers)
 
 ### MongoDB
+[MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
 [mongodb.org](https://www.mongodb.org)
+
+### Nexmo
+- SMS API
+- TTS API
+- Number Insight API
+- Verify API
+- Voice API
+
+Details at [Nexmo.com](https://www.nexmo.com/)
 
 ### Pebble
 [developer.pebble.com](https://developer.pebble.com/)
@@ -26,17 +46,8 @@ View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony
 ### Plaid
 [plaid.com/docs](http://plaid.com/docs)
 
-### Postmates
-[postmates.com/developer](http://postmates.com/developer)
-
-### SoundHound
-[houndify.com](http://houndify.com)
-
-### Thalmic Labs
-[developer.myo.com/hackers](http://developer.myo.com/hackers)
-
-### Two Sigma
-[Beaker Notebook](http://beakernotebook.com) is a new open source tool for collaborative data science. Beaker has an innovative UI and unique architecture to make it easier for novices to get started, and enable experts to work faster. Like IPython, Beaker uses a notebook-based UI metaphor, but Beaker was designed to be polyglot from the ground up. That is, a single notebook may contain cells from multiple different languages that communicate with one another through a unique feature called autotranslation.
+### Xilinx
+[PythonOnZynq](http://www.xilinx.com/support/university/PythonOnZynq.html)
 
 ## Route-Specific Resources
 
