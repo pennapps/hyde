@@ -14,6 +14,10 @@ View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony -
 ### Capital One
 [Nessie](http://api.reimaginebanking.com/)
 
+### Elsevier
+[Hack MedEd API](http://ck-hackday.us-east-1.elasticbeanstalk.com/medline/api)
+
+
 ### Google Polymer
 - [Platform Overview](www.polymer-project.org)
 - [Elements Catalog](https://elements.polymer-project.org)
