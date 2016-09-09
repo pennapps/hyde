@@ -16,6 +16,9 @@ View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony -
 
 ### Elsevier
 [Hack MedEd API](http://ck-hackday.us-east-1.elasticbeanstalk.com/medline/api)
+- [Elsevier Challenges](https://www.dropbox.com/s/5cnciestywkvlhf/PennApps.docx?dl=0)
+- [Challenge Article - Article 1](https://www.dropbox.com/s/17lynwvylrpoeqm/DeRxElderlyMaturitas2016.pdf?dl=0)
+- [Challenge Article - Article 2](https://www.dropbox.com/s/u7eey13p3l7r0w1/RxPolypharmGeriatricEmMedClinics2016.pdf?dl=0)
 
 
 ### Google Polymer
