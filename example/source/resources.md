@@ -20,8 +20,6 @@ View the [slides](/pennapps_xiii_opening_vfinal.pdf) from the opening ceremony -
 - [Challenge Article - Article 1](https://www.dropbox.com/s/u7eey13p3l7r0w1/RxPolypharmGeriatricEmMedClinics2016.pdf?dl=0)
 - [Challenge Article - Article 2](http://www.sciencedirect.com/science/article/pii/S0378512216301384)
 
-
-
 ### Google Polymer
 - [Platform Overview](www.polymer-project.org)
 - [Elements Catalog](https://elements.polymer-project.org)
@@ -38,6 +36,9 @@ Information at [linode.com/api](http://linode.com/api).
 ### MongoDB
 - [MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
 - [mongodb.org](https://www.mongodb.org)
+
+### Newscred
+[NewsCred API](https://www.apitools.com/apis/newscred)
 
 ### Nexmo
 - SMS API
