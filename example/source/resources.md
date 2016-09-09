@@ -38,7 +38,8 @@ Information at [linode.com/api](http://linode.com/api).
 - [mongodb.org](https://www.mongodb.org)
 
 ### Newscred
-[NewsCred API](https://www.apitools.com/apis/newscred)
+[NewsCred API Documents for PennApps](https://docs.google.com/document/d/1vcW34l7HxHBJX40dpKOrYkBmVTeVOXdx9Z9ZF9K_B4M/edit)
+[NewsCred API Main Page](https://www.apitools.com/apis/newscred)
 
 ### Nexmo
 - SMS API
