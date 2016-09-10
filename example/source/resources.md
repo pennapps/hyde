@@ -38,6 +38,7 @@ Information at [linode.com/api](http://linode.com/api).
 - [mongodb.org](https://www.mongodb.org)
 
 ### Newscred
+The NewsCred API provides programmatic access to the world’s best journalistic content. Through this API you can access millions of articles written by over 5,000 leading publishers such as the New York Times, Forbes, and Bloomberg. Below you’ll find some simple documentation to get you started. Please swing by our booth outside of Heilmeier Hall if you need any help getting started.
 [NewsCred API Documents for PennApps](https://docs.google.com/document/d/1vcW34l7HxHBJX40dpKOrYkBmVTeVOXdx9Z9ZF9K_B4M/edit)
 [NewsCred API Main Page](https://www.apitools.com/apis/newscred)
 
@@ -55,6 +56,11 @@ Details at [Nexmo.com](https://www.nexmo.com/)
 
 ### Plaid
 [plaid.com/docs](http://plaid.com/docs)
+
+### Qualtrics
+In order to use the Qualtrics API, you'll need to [generate a temporary Qualtrics account](https://universityrecruiting.az1.qualtrics.com/jfe/form/SV_bJDXnRACk6hKFRr).
+
+You can then use the API - [find more details here](https://api.qualtrics.com/).
 
 ### Xilinx
 [PythonOnZynq](http://www.xilinx.com/support/university/PythonOnZynq.html)
