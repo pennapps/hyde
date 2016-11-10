@@ -12,7 +12,7 @@ html(lang="en")
     .header
       a(href="http://pennapps.com")
         h1#logo PennApps&nbsp;
-          span.num XIV
+          span.num XV
     .container
       - // output document structure as nested lists with links
       mixin structureToList(node, isTop)
@@ -32,7 +32,7 @@ html(lang="en")
           +structureToList(structure, true)
       else
         .body-content.col-md-8.col-md-offset-2!=content
-      
+
     // Footer
     .footer-section
       .row
@@ -40,7 +40,7 @@ html(lang="en")
           .footer-col
             a(href='#home')
               img(src='/PennApps-white.png', width='50px')
-            p &copy; 2016 PennApps
+            p &copy; 2017 PennApps
             p
               a(href='mailto:contact@pennapps.com') contact@pennapps.com
               | .

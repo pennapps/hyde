@@ -1,6 +1,6 @@
 Traveling to PennApps?
 =======================
-If you've been accepted to PennApps XIV (Fall 2016) from another school, please refer to the guidelines below when making travel arrangements:
+If you've been accepted to PennApps XV (Winter 2017) from another school, please refer to the guidelines below when making travel arrangements:
 
 ## Many schools will have buses
 
