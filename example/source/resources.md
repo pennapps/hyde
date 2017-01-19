@@ -13,6 +13,8 @@ View the [slides](//2017w.pennapps.com/files/2017w_opening_ceremony_slides.pdf) 
 
 ### Clarifai
 [Clarifai](http://developer.clarifai.com/signup/)
+
+
 Use code `PENNAPPSXV`
 
 ### Capital One
