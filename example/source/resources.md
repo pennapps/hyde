@@ -4,66 +4,28 @@
 You can find our curated resources to help you start building at [mentoring.pennapps.com](http://mentoring.pennapps.com).
 
 ## Opening Ceremony Slide Deck
-View the [slides](//2016f.pennapps.com/files/2016f_opening_ceremony_slides.pdf) from the opening ceremony
+View the [slides](//2017w.pennapps.com/files/2017w_opening_ceremony_slides.pdf) from the opening ceremony
 
 ## API Resources
 
-### BlackRock
-[BlackRock Aladdin API](http://test3.blackrock.com/hack)
+### Two Sigma
+[Beaker Notebook](http://beakernotebook.com/)
+
+### Clarifai
+[Clarifai](http://developer.clarifai.com/signup/)
+Use code `PENNAPPSXV`
 
 ### Capital One
-[Nessie](http://api.reimaginebanking.com/)
+[Capital One API](http://api.reimaginebanking.com/)
 
-### Elsevier
-[Hack MedEd API](http://ck-hackday.us-east-1.elasticbeanstalk.com/medline/api)
-- [Elsevier Challenges](https://www.dropbox.com/s/5cnciestywkvlhf/PennApps.docx?dl=0)
-- [Challenge Article - Article 1](https://www.dropbox.com/s/u7eey13p3l7r0w1/RxPolypharmGeriatricEmMedClinics2016.pdf?dl=0)
-- [Challenge Article - Article 2](http://www.sciencedirect.com/science/article/pii/S0378512216301384)
-
-### Google Polymer
-- [Platform Overview](www.polymer-project.org)
-- [Elements Catalog](https://elements.polymer-project.org)
-- [Web Component Catalogs](https://customelements.io)
+### Bloomberg
+[Bloomberg Open Market API](https://www.bloomberglabs.com/api/)
 
 ### Linode
 Linode's API is not required to use our services, though an API is provided where you can control nearly every facet of the Linode Manager programmatically.
 
 Information at [linode.com/api](http://linode.com/api).
 
-### Lyft
-[Lyft API](https://www.lyft.com/developers)
-
-### MongoDB
-- [MongoDB Download Center](https://www.mongodb.com/download-center?jmp=nav#community)
-- [mongodb.org](https://www.mongodb.org)
-
-### Newscred
-The NewsCred API provides programmatic access to the world’s best journalistic content. Through this API you can access millions of articles written by over 5,000 leading publishers such as the New York Times, Forbes, and Bloomberg. Below you’ll find some simple documentation to get you started. Please swing by our booth outside of Heilmeier Hall if you need any help getting started.
-[NewsCred API Documents for PennApps](https://docs.google.com/document/d/1vcW34l7HxHBJX40dpKOrYkBmVTeVOXdx9Z9ZF9K_B4M/edit)
-[NewsCred API Main Page](https://www.apitools.com/apis/newscred)
-
-### Nexmo
-- SMS API
-- TTS API
-- Number Insight API
-- Verify API
-- Voice API
-
-Details at [Nexmo.com](https://www.nexmo.com/)
-
-### Pebble
-[developer.pebble.com](https://developer.pebble.com/)
-
-### Plaid
-[plaid.com/docs](http://plaid.com/docs)
-
-### Qualtrics
-In order to use the Qualtrics API, you'll need to [generate a temporary Qualtrics account](https://universityrecruiting.az1.qualtrics.com/jfe/form/SV_bJDXnRACk6hKFRr).
-
-You can then use the API - [find more details here](https://api.qualtrics.com/).
-
-### Xilinx
-[PythonOnZynq](http://www.xilinx.com/support/university/PythonOnZynq.html)
 
 ## Route-Specific Resources
 
