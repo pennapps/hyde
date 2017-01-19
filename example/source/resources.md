@@ -8,6 +8,11 @@ View the [slides](//2017w.pennapps.com/files/2017w_opening_ceremony_slides.pdf) 
 
 ## API Resources
 
+### Button
+[Button Hackathon Developer Guide](https://www.usebutton.com/hackathon)
+
+[Button App Button Directory](https://www.usebutton.com/buttons)
+
 ### Two Sigma
 [Beaker Notebook](http://beakernotebook.com/)
 
