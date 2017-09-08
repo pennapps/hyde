@@ -9,6 +9,10 @@ You can find our curated resources to help you start building at [mentoring.penn
 
 [Aladdin API](https://www.blackrock.com/tools/api-tester/hackathon)
 
+### Lyft
+
+[Lyft API](https://www.lyft.com/developers)
+
 ### Earth Networks
 
 [Earth Networks API](https://developer.earthnetworks.com/documentation)
