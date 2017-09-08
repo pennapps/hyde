@@ -8,31 +8,52 @@ View the [slides](//2017w.pennapps.com/files/2017w_opening_ceremony_slides.pdf) 
 
 ## API Resources
 
-### Button
-[Button Hackathon Developer Guide](https://www.usebutton.com/hackathon)
+### BlackRock
 
-[Button App Button Directory](https://www.usebutton.com/buttons)
+[Aladdin API](https://www.blackrock.com/tools/api-tester/hackathon)
 
-### Two Sigma
-[Beaker Notebook](http://beakernotebook.com/)
+### Earth Networks
 
-### Clarifai
-[Clarifai](http://developer.clarifai.com/signup/)
+[Earth Networks API](https://developer.earthnetworks.com/documentation)
 
+Enterprise Pulse API Subscription Key: '20b9bdb7d9204b30adbbcc0ca5679240'
 
-Use code `PENNAPPSXV`
+Map Tiles Subscription Key: '82017ddb1d8f4c0fb93d612a91531462'
 
 ### Capital One
 [Capital One API](http://api.reimaginebanking.com/)
 
-### Bloomberg
-[Bloomberg Open Market API](https://www.bloomberglabs.com/api/)
+### Facebook
 
-### Linode
-Linode's API is not required to use our services, though an API is provided where you can control nearly every facet of the Linode Manager programmatically.
+[Facebook APIs](https://developers.facebook.com/tools-and-support/)
 
-Information at [linode.com/api](http://linode.com/api).
+### GIPHY
 
+[GIPHY API](http://developers.giphy.com)
+
+### Google
+
+[Android](https://developer.android.com/things/hardware/index.html)
+
+[Cloud](cloud.google.com)
+
+We'll also be sharing out a Getting Started Guide and handing out $100 GCP credit vouchers on site.
+
+### Hasura
+
+[Hasura API](https://hack.hasura.io/)
+
+### Lutron Electronics
+
+[Lutron Homeworks QS API](https://drive.google.com/file/d/0ByTP4FNuoLUddDF5dzhLeGxrV2c/view?usp=sharing)
+
+### The Wharton Customer Analytics Initiative
+
+[Earth Networks Weather Data API](http://wcai.wharton.upenn.edu/earth-networks-weather-data-api/)
+
+### Vonage
+
+[Nexmo API](https://www.nexmo.com/)
 
 ## Route-Specific Resources
 
