@@ -45,7 +45,6 @@ When submitting your driving receipts, You *must* add a screenshot clearly showi
 - All relevant reimbursement forms will be available at the travel desk.
 - An expedited queue will also be available for those who have already completed their reimbursement packets, which are available for download after rsvp on https://my.pennapps.com. People who submit to this queue will get processed quickest, so it is highly recommended to fill your forms out before coming.
 - Printers and copiers will be provided to print out receipts and other relevant documents.
-- If you qualify for Venmo Reimbursement, we will send the reimbursement to your Venmo account instantly at the travel desk. If you do not qualify, you will need to apply for a Check reimbursement.
 
 ### Venmo Reimbursement
 - All US reimbursments will handled via Venmo, you must have a Venmo account (free to sign up with a U.S. bank account).
