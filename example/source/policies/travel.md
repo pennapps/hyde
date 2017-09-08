@@ -48,19 +48,9 @@ When submitting your driving receipts, You *must* add a screenshot clearly showi
 - If you qualify for Venmo Reimbursement, we will send the reimbursement to your Venmo account instantly at the travel desk. If you do not qualify, you will need to apply for a Check reimbursement.
 
 ### Venmo Reimbursement
-- To qualify for instant Venmo reimbursement, you must have a Venmo account (free to sign up with a U.S. bank account).
+- All US reimbursments will handled via Venmo, you must have a Venmo account (free to sign up with a U.S. bank account).
 - You will be required to submit a receipt of your travel expenses. Please make sure your receipts clearly show the dollar amount spent. Cropped or edited reciepts will be rejected.
-- If your tickets can only be purchased on the day you depart from PennApps (SEPTA, NJTransit, Cab, Uber etc) then you must submit for check reimbursement after the event.
-
-### Check Reimbursement
-- Once you apply for Check Reimbursement, Penn will send you a check in the mail within about two months.
-- For reimbursements, *US citizens* must submit their W9, Guest Reimbursement forms, and receipts in addition to any other required screenshots.
-- For reimbursements, *Non-US citizens* must submit their W8, Guest Reimbursement, FNIF forms along with a copy of the front page of their passport, a copy of the stamp of entry in their passport and a copy of their visa/ESTA  and receipts in addition to any other required screenshots.
-- Please make sure your receipts clearly show the dollar amount spent. Cropped or edited reciepts will be rejected.
-- If your tickets can only be purchased on the day of the event (SEPTA, NJTransit, Cab, Uber etc) then you will be permitted to submit your forms after the event.
-- If you know other people who have been accepted to PennApps coming from the same location, it would be advantageous to have one person book the tickets for everyone. This will make the travel reimbursement process easier. If possible, have this person be an US citizen.
-- Please ensure all your forms are fully completed and signed. This saves us unbelievable amounts of time.
-- US citizens applying for reimbursement are required to submit a W9 form, with their Social Security Number, for the University's tax records. Forms without SSNs will be rejected.
+- If your tickets can only be purchased on the day you depart from PennApps (SEPTA, NJTransit, Cab, Uber etc). Come to the travel desk for instructions.
 
 ## Other Details
  - Once you have made your booking, we will not cover any change fees.
