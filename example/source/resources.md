@@ -3,9 +3,6 @@
 ## General Resources
 You can find our curated resources to help you start building at [mentoring.pennapps.com](http://mentoring.pennapps.com).
 
-## Opening Ceremony Slide Deck
-View the [slides](//2017w.pennapps.com/files/2017w_opening_ceremony_slides.pdf) from the opening ceremony
-
 ## API Resources
 
 ### BlackRock
