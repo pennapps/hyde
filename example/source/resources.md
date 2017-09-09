@@ -36,7 +36,9 @@ Map Tiles Subscription Key: '82017ddb1d8f4c0fb93d612a91531462'
 
 [Android](https://developer.android.com/things/hardware/index.html)
 
-[Cloud](cloud.google.com)
+[Cloud](https://cloud.google.com)
+
+[Google Cloud Getting Started](https://goo.gl/iMCNBS)
 
 We'll also be sharing out a Getting Started Guide and handing out $100 GCP credit vouchers on site.
 
