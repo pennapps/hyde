@@ -58,6 +58,12 @@ We'll also be sharing out a Getting Started Guide and handing out $100 GCP credi
 
 [Nexmo API](https://www.nexmo.com/)
 
+### Hospital of the University of Pennsylvania
+
+[Frequently Ordered Studies](https://www.dropbox.com/s/vcl7u7csxsbt26t/frequently%20ordered%20studies.xlsx?dl=0)
+
+[Lets' Build an App](https://www.dropbox.com/s/yywfh62uihr8t2x/PennApps%20healthcare%20cost%20app.pptx?dl=0)
+
 ## Route-Specific Resources
 
 ### Social & Civic Hacking - City of Philadelphia Datasets
